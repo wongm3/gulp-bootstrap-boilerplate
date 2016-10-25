@@ -43,3 +43,4 @@ jspm_packages
 /dist/**/*
 !/dist/index.html
 bower_components
+/yarn.lock
